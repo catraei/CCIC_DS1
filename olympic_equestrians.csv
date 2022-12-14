@@ -1,0 +1,19 @@
+discipline_title,slug_game,event_title,event_gender,medal_type,participant_type,participant_title,athlete_url,athlete_full_name,country_name,country_code,country_3_letter_code
+Equestrian,tokyo-2020,Eventing Individual,Open,GOLD,Athlete,,https://olympics.com/en/athletes/julia-krajewski,Julia KRAJEWSKI,Germany,DE,GER
+Equestrian,tokyo-2020,Eventing Individual,Open,SILVER,Athlete,,https://olympics.com/en/athletes/tom-mcewen,Tom MCEWEN,Great Britain,GB,GBR
+Equestrian,tokyo-2020,Eventing Individual,Open,BRONZE,Athlete,,https://olympics.com/en/athletes/andrew-hoy,Andrew HOY,Australia,AU,AUS
+Equestrian,tokyo-2020,Dressage Individual,Open,SILVER,Athlete,,https://olympics.com/en/athletes/isabell-werth,Isabell WERTH,Germany,DE,GER
+Equestrian,tokyo-2020,Dressage Individual,Open,GOLD,Athlete,,https://olympics.com/en/athletes/jessica-von-bredow-werndl,Jessica VON BREDOW-WERNDL,Germany,DE,GER
+Equestrian,tokyo-2020,Dressage Individual,Open,BRONZE,Athlete,,https://olympics.com/en/athletes/charlotte-dujardin,Charlotte DUJARDIN,Great Britain,GB,GBR
+Equestrian,tokyo-2020,Dressage Team,Open,GOLD,GameTeam,Germany,,,Germany,DE,GER
+Equestrian,tokyo-2020,Dressage Team,Open,SILVER,GameTeam,United States,,,United States of America,US,USA
+Equestrian,tokyo-2020,Dressage Team,Open,BRONZE,GameTeam,Great Britain,,,Great Britain,GB,GBR
+Equestrian,tokyo-2020,Eventing Team,Open,GOLD,GameTeam,Great Britain,,,Great Britain,GB,GBR
+Equestrian,tokyo-2020,Eventing Team,Open,SILVER,GameTeam,Australia,,,Australia,AU,AUS
+Equestrian,tokyo-2020,Eventing Team,Open,BRONZE,GameTeam,France,,,France,FR,FRA
+Equestrian,tokyo-2020,Jumping Team,Open,GOLD,GameTeam,Sweden,,,Sweden,SE,SWE
+Equestrian,tokyo-2020,Jumping Team,Open,SILVER,GameTeam,United States,,,United States of America,US,USA
+Equestrian,tokyo-2020,Jumping Team,Open,BRONZE,GameTeam,Belgium,,,Belgium,BE,BEL
+Equestrian,tokyo-2020,Jumping Individual,Open,SILVER,Athlete,,https://olympics.com/en/athletes/peder-fredricson,Peder FREDRICSON,Sweden,SE,SWE
+Equestrian,tokyo-2020,Jumping Individual,Open,GOLD,Athlete,,https://olympics.com/en/athletes/ben-maher,Ben MAHER,Great Britain,GB,GBR
+Equestrian,tokyo-2020,Jumping Individual,Open,BRONZE,Athlete,,https://olympics.com/en/athletes/maikel-van-der-vleuten,Maikel VAN DER VLEUTEN,Netherlands,NL,NED
